@@ -8,8 +8,8 @@
 | 5 | 73 | D | C | 关键词：check out the videos on our Web site 查看我们网站上的视频 |
 | 6 | 79 | D | A | 关键词：patio overlooking the rose garden 没理解对话，建议不要在露台上休息，而是在eating area indoors |
 | 7 | 94 | C | D | 关键词：**vote on** their favorite 投票选出他们最喜欢的一个方案 |
-| 8 | 95 | C | D | 关键词：physicians' convention 内科医生大会 |
-| 9 | 97 | A | C | 关键词： |
+| 8 | 95 | C | D | 关键词：happy about the topic |
+| 9 | 97 | A | C | 关键词：I also need an updated professional biography for our program booklet |
 
 # Part1
 ## 单词词组
@@ -124,12 +124,13 @@
 31. **vote on** their favorite 投票选出他们最喜欢的一个方案
 32. a beautiful walking path and new community garden 一条漂亮的步行道和一个新的社区花园
 33. digital images 数字效果图
-34. holistic healthcare 整体医疗保健（全人健康）
-35. professional **biography** for our program booklet 个人专业简历，以用于我们的活动手册
-36. computer programmers 计算机程序员
-37. Fund-raising Flyer 资金募集传单
-38. **launch** a summer camp 开办一个夏令营，camp吞音很严重，听起来像can
-39. **informed** decisions 明智的决策
+34. physicians' convention 内科医生大会
+35. holistic healthcare 整体医疗保健（全人健康）
+36. professional **biography** for our program booklet 个人专业简历，以用于我们的活动手册
+37. computer programmers 计算机程序员
+38. Fund-raising Flyer 资金募集传单
+39. **launch** a summer camp 开办一个夏令营，camp吞音很严重，听起来像can
+40. **informed** decisions 明智的决策
 
 # 感悟
 ## Preview的重要性
