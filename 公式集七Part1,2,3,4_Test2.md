@@ -38,6 +38,12 @@
 12. display 陈列台
 13. That position has been filled. 那个职位已经招到人了
 14. Weren't the safety inspectors supposed to be here by now? 安全检查员现在不是应该已经到了吗？
+15. a direct flight 直飞航班
+16. presenter 主持人，演讲者
+17. vacation policy 假期规定
+18. **Yes, the parking meter accepts change.** 是的，停车收费表接受零钱。
+19. **twenty color copies** 二十份彩色打印
+20. **auditor certification** 审计员资格证书
 
 # Part3
 ## 单词词组
