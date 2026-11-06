@@ -6,7 +6,7 @@
 | 3 | 44 | A | D | 关键词：presentation slides for the marketing strategy meeting |
 | 4 | 63 | C | B | 纯粹填错了 |
 | 5 | 88 | D | A | 关键词：are selling signed posters featuring Mr. Vogel with his violin |
-| 6 | 93 | B | C |  |
+| 6 | 93 | B | C | 关键词：allow you to carry more packages than usual |
 
 # Part1
 ## 单词词组
@@ -148,7 +148,7 @@
 31. tooth cleaning 牙齿清洁
 32. scheduled a whitening procedure 预约牙齿美白
 33. receive payment for all the work 收到所有项目的款项
-34. pledge timely delivery 承诺准时送达（pledge 意为发誓、承诺；timely 是托业极爱考的形容词，意为“及时的、准时的”，等同于 on-time）
+34. **pledge** timely delivery 承诺准时送达（pledge 意为发誓、承诺；timely 是托业极爱考的形容词，意为“及时的、准时的”，等同于 on-time）
 35. cargo bike 货运自行车
 36. a storage unit attached 连接在车上的储物装置（车斗/后尾箱）
 37. currently borrowing 当前租赁
