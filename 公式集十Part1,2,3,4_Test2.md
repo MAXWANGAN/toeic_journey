@@ -63,15 +63,16 @@
 44. newsroom 新闻编辑室
 45. **check in** at the front desk 在前台登记/报到。访客进入办公楼或旅客入住酒店时的标准表达，同义替换 register at the reception desk。
 46. there's a large tour group in the building. 大楼里现在有一个大型参观团
-47. is of **historical** interest to architecture **fill out a form 填写表格** 对建筑爱好者来说很有历史价值
-48. fill out a form 填写表格
-49. temporary ID 临时身份证件；临时访客证
-50. **rapid expansion** **leaves** us without enough workers 快速扩张会让我们人手不足
-51. advertise some positions 发布一些招聘启事。人力资源类必背搭配，同义替换 post job openings 或 recruit new employees。
-52. **retail outlets** 零售门店。商业与销售类超高频名词短语，在托业中常与 stores 或 branches 进行同义替换。
-53. **metropolitan** area 大都市区；大都会地区
-54. bring in shoppers 吸引购物者；招揽顾客
-55. **regional operations manager** 区域运营经理
+47. is of **historical** interest to architecture **enthusiasts** 对建筑爱好者来说很有历史价值
+48. **fill out a form 填写表格** 对建筑爱好者来说很有历史价值
+49. fill out a form 填写表格
+50. temporary ID 临时身份证件；临时访客证
+51. **rapid expansion** **leaves** us without enough workers 快速扩张会让我们人手不足
+52. advertise some positions 发布一些招聘启事。人力资源类必背搭配，同义替换 post job openings 或 recruit new employees。
+53. **retail outlets** 零售门店。商业与销售类超高频名词短语，在托业中常与 stores 或 branches 进行同义替换。
+54. **metropolitan** area 大都市区；大都会地区
+55. bring in shoppers 吸引购物者；招揽顾客
+56. **regional operations manager** 区域运营经理
 
 
 # Part4
