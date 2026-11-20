@@ -8,4 +8,4 @@
 | 5 | 48 | D | A | 现在是main entrance，将要side entrance |
 | 6 | 49 | B | C | 明确说了是 fifteen minutes |
 | 7 | 63 | D | C | tomorrow is Friday，we need you come in Friday to complete some paperwork，see you tomorrow then |
-| 8 | 76 | D | B | This is a teleconferencing meeting, which is conducted by telephone, and the caller says Mr. McDuffee _will be called at his home number_, so (B) is correct. |
+| 8 | 76 | D | B | This is a teleconferencing meeting, which is conducted by telephone, and the caller says _and you will be called at your home number_, so (B) is correct. |
